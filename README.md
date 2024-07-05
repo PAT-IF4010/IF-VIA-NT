@@ -56,6 +56,10 @@ Contoh struktur direktori sebagai *berikut:*
 
 - [Modul Praktikum GIT :octocat:](https://github.com/SI4019/Panduan-Praktikum-SI4019/tree/main/1-Panduan-GIT)
 
+## Project PAT 👨‍💻
+
+- [Project Implementasi aplikasi terdistribusi.](https://github.com/PAT-IF4010/project) 🔥
+
 ## Referensi 🕵️‍♂️
 
 1. [git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
