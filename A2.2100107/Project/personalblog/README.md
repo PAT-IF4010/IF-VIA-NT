@@ -7,8 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Berikut adalah versi lengkap dari README.md yang telah Anda minta, dengan URL dalam format kode:
-
 # Blog Application
 
 ## Pendahuluan
