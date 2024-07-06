@@ -1,6 +1,6 @@
 # Aplikasi AreetaNet
 
-Aplikasi ini adalah solusi pembayaran internet yang dikembangkan menggunakan PHP, CSS, dan HTML.
+AreetaNet adalah sistem manajemen khusus untuk ISP seperti RT RW NET. Ini bisa mengelola pengguna, membuat laporan, melakukan penagihan, mengirim notifikasi, dan terhubung dengan WhatsApp serta Mikrotik. AreetaNet dibangun dengan menggunakan framework CodeIgniter untuk memastikan kinerja yang cepat dan efisien. Fitur utamanya termasuk WhatsApp Gateway, Payment Gateway, dan antarmuka Admin LTE untuk administrasi yang mudah. Dengan semua fitur ini, AreetaNet dirancang untuk meningkatkan efisiensi operasional dan pengalaman pengguna secara signifikan.
 
 ## Fitur
 
