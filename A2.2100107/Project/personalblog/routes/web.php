@@ -41,7 +41,6 @@ Route::get('/about', function () {
         "title" => "About",
         "active" => "about",
         "nama" => "Renal Sugiana",
-        "email" => "renalsugiana@gmail.com",
         "profil" => "profil.png",
     ]);
 });
