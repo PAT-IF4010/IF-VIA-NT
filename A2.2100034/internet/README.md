@@ -8,12 +8,6 @@ AreetaNet adalah sistem manajemen khusus untuk ISP seperti RT RW NET. Ini bisa m
 - **Histori Pembayaran:** Pengguna dapat melihat riwayat pembayaran mereka sebelumnya.
 - **User Management:** Admin dapat mengelola pengguna dan data tagihan.
 
-## Teknologi yang Digunakan
-
-- **Bahasa Pemrograman:** PHP, HTML, CSS
-- **Framework:** Laravel (untuk PHP)
-- **Database:** MySQL
-- **CI/CD:** GitHub Actions
 
 ## Penggunaan
 
