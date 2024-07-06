@@ -6,12 +6,12 @@
     </div>
 
     @if (session()->has('success'))
-        <div class="alert alert-success col-lg-8" role="alert">
+        <div class="alert alert-success" role="alert">
             {{ session('success') }}
         </div>
     @endif
 
-    <div class="table-responsive small col-lg-8">
+    <div class="table-responsive small">
         <a href="/dashboard/posts/create" class="btn btn-primary mb-2">
             <i class="bi bi-pencil-square"></i>
             Create new post
