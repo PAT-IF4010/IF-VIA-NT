@@ -1,3 +1,6 @@
+Sofian Rizki Nugraha - A2.2000107
+Muhammad Rifqi Mubarok Attarmidzi - A2.2000078
+indra anugrah rukmana a2.2000052
 for db
 
 CREATE TABLE IF NOT EXISTS tasks (
